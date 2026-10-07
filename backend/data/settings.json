@@ -1,0 +1,15 @@
+{
+  "baselines": {
+    "real": {
+      "readings": {
+        "main": 200,
+        "shagun": 100,
+        "saumya": 20,
+        "muskan": 3
+      },
+      "date": "2026-10-07",
+      "createdAt": "2026-10-07T07:26:04.393Z"
+    }
+  },
+  "mode": "test"
+}

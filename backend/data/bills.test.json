@@ -1,0 +1,143 @@
+[
+  {
+    "month": "2026-07",
+    "amount": 3200,
+    "opening": {
+      "main": 0,
+      "shagun": 0,
+      "saumya": 0,
+      "muskan": 0
+    },
+    "closing": {
+      "main": 400,
+      "shagun": 120,
+      "saumya": 60,
+      "muskan": 20
+    },
+    "result": {
+      "amount": 3200,
+      "totalUnits": 400,
+      "acTotal": 200,
+      "commonUnits": 200,
+      "rate": 8,
+      "shares": [
+        {
+          "id": "shagun",
+          "acUnits": 120,
+          "acCost": 960,
+          "common": 533.33,
+          "pays": 1493.34
+        },
+        {
+          "id": "saumya",
+          "acUnits": 60,
+          "acCost": 480,
+          "common": 533.33,
+          "pays": 1013.33
+        },
+        {
+          "id": "muskan",
+          "acUnits": 20,
+          "acCost": 160,
+          "common": 533.33,
+          "pays": 693.33
+        }
+      ]
+    },
+    "createdAt": "2026-07-28T12:00:00.000Z"
+  },
+  {
+    "month": "2026-08",
+    "amount": 3440,
+    "opening": {
+      "main": 400,
+      "shagun": 120,
+      "saumya": 60,
+      "muskan": 20
+    },
+    "closing": {
+      "main": 830,
+      "shagun": 250,
+      "saumya": 150,
+      "muskan": 55
+    },
+    "result": {
+      "amount": 3440,
+      "totalUnits": 430,
+      "acTotal": 255,
+      "commonUnits": 175,
+      "rate": 8,
+      "shares": [
+        {
+          "id": "shagun",
+          "acUnits": 130,
+          "acCost": 1040,
+          "common": 466.67,
+          "pays": 1506.66
+        },
+        {
+          "id": "saumya",
+          "acUnits": 90,
+          "acCost": 720,
+          "common": 466.67,
+          "pays": 1186.67
+        },
+        {
+          "id": "muskan",
+          "acUnits": 35,
+          "acCost": 280,
+          "common": 466.67,
+          "pays": 746.67
+        }
+      ]
+    },
+    "createdAt": "2026-08-28T12:00:00.000Z"
+  },
+  {
+    "month": "2026-09",
+    "amount": 2880,
+    "opening": {
+      "main": 830,
+      "shagun": 250,
+      "saumya": 150,
+      "muskan": 55
+    },
+    "closing": {
+      "main": 1190,
+      "shagun": 340,
+      "saumya": 195,
+      "muskan": 92
+    },
+    "result": {
+      "amount": 2880,
+      "totalUnits": 360,
+      "acTotal": 172,
+      "commonUnits": 188,
+      "rate": 8,
+      "shares": [
+        {
+          "id": "shagun",
+          "acUnits": 90,
+          "acCost": 720,
+          "common": 501.33,
+          "pays": 1221.34
+        },
+        {
+          "id": "saumya",
+          "acUnits": 45,
+          "acCost": 360,
+          "common": 501.33,
+          "pays": 861.33
+        },
+        {
+          "id": "muskan",
+          "acUnits": 37,
+          "acCost": 296,
+          "common": 501.33,
+          "pays": 797.33
+        }
+      ]
+    },
+    "createdAt": "2026-09-28T12:00:00.000Z"
+  }
+]
